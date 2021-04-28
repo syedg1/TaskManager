@@ -1,5 +1,5 @@
 # Task Manager
-This application can be viewed by downloading the files and running "npm install" and "npm start" commands to open the Task Manager in a localhost server.
+This project is hosted at: https://task-manager-notes.herokuapp.com/
 
 The Task Manager contains the following features:
   - Create task categories
