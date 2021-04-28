@@ -10,3 +10,12 @@ This contains the following features:
   - Edit task details
   - Delete tasks
   - Delete categories
+<br>
+<br>
+
+![Capture18](https://user-images.githubusercontent.com/33561776/116426721-5c37c000-a811-11eb-8c18-3a042acec2ef.JPG)
+<br>
+<br>
+
+![Capture19](https://user-images.githubusercontent.com/33561776/116426963-96a15d00-a811-11eb-824d-60c8e554fc7f.JPG)
+
